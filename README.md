@@ -1,1 +1,2 @@
-# herupraptono's github repository, newly maintained
+# herupraptono's Github Repository
+newly maintained
